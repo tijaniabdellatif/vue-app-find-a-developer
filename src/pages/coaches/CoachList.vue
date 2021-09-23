@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="bg-red-500">
     Filter
   </section>
 
